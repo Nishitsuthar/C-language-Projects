@@ -6,7 +6,7 @@ int main()
 {
     // here we generate the random number
     srand(time(0));
-    int number = rand() % 100;
+    int number = rand() % 100; //here actually i use 100 for reaching numbers to 0-100
 
     printf("the random number is %d \n", number);
 
