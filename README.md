@@ -1,2 +1,2 @@
-# games_in_C
-here i create some interesting cool games in C language
+# games in C
+ here i create some cool games in C language
