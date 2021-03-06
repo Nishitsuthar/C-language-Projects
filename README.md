@@ -1,2 +1,2 @@
 # games in C
- here i create some cool games in C language
+ basics games in C language
